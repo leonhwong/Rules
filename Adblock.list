@@ -15,9 +15,9 @@ DOMAIN-KEYWORD,trace
 DOMAIN-KEYWORD,track
 DOMAIN-KEYWORD,traffic
 DOMAIN-KEYWORD,usage
-#小k智能
+# 小k智能
 USER-AGENT,%E5%B0%8Fk%E6%99%BA%E8%83%BD*
-#掌通家园
+# 掌通家园
 USER-AGENT,%E6%8E%8C%E9%80%9A%E5%AE%B6%E5%9B%AD*
 USER-AGENT,AliXAdSDK*
 USER-AGENT,aliyun-log-sdk-ios*
@@ -33,7 +33,7 @@ USER-AGENT,iQiYiPhoneVideo
 USER-AGENT,MarkKit*
 USER-AGENT,MTopSDK*
 USER-AGENT,Munion*
-#QQ浏览器
+# QQ浏览器
 USER-AGENT,QQ%E6%B5%8F%E8%A7%88%E5%99%A8*
 USER-AGENT,QYUniversalFramework*
 USER-AGENT,SensorsAnalytics*
