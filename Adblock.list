@@ -1,3 +1,7 @@
+DOMAIN,log3-misc-lf.amemv.com,REJECT
+DOMAIN,mon11-misc-lf.amemv.com,REJECT
+DOMAIN,mon.toutiao.com,REJECT
+DOMAIN,pitaya.bytedance.com,REJECT
 DOMAIN-KEYWORD,adash
 DOMAIN-KEYWORD,admaster
 DOMAIN-KEYWORD,adsage
