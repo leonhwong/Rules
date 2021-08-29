@@ -1,9 +1,12 @@
+DOMAIN,h5n.xlgxapp.com
+DOMAIN,imgs.xlgxapp.com
 DOMAIN,log3-misc-lf.amemv.com
 DOMAIN,mon11-misc-lf.amemv.com
 DOMAIN,mon.toutiao.com
 DOMAIN,mon.toutiaocloud.com
 DOMAIN,mon.toutiaocloud.net
 DOMAIN,pitaya.bytedance.com
+DOMAIN-SUFFIX,fraudmetrix.cn
 DOMAIN-KEYWORD,adash
 DOMAIN-KEYWORD,admaster
 DOMAIN-KEYWORD,adsage
@@ -22,6 +25,7 @@ DOMAIN-KEYWORD,luban
 DOMAIN-KEYWORD,monitor
 DOMAIN-KEYWORD,pangolin
 DOMAIN-KEYWORD,sensor
+DOMAIN-KEYWORD,tongdun
 DOMAIN-KEYWORD,trace
 DOMAIN-KEYWORD,track
 DOMAIN-KEYWORD,traffic
