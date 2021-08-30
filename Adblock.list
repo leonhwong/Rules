@@ -1,3 +1,4 @@
+DOMAIN,cache.amap.com
 DOMAIN,h5n.xlgxapp.com
 DOMAIN,imgs.xlgxapp.com
 DOMAIN,log3-misc-lf.amemv.com
@@ -5,6 +6,7 @@ DOMAIN,mon11-misc-lf.amemv.com
 DOMAIN,mon.toutiao.com
 DOMAIN,mon.toutiaocloud.com
 DOMAIN,mon.toutiaocloud.net
+DOMAIN,page.amap.com
 DOMAIN,pitaya.bytedance.com
 DOMAIN-SUFFIX,fraudmetrix.cn
 DOMAIN-KEYWORD,adash
