@@ -9,7 +9,6 @@ DOMAIN,mon.toutiaocloud.com
 DOMAIN,mon.toutiaocloud.net
 DOMAIN,page.amap.com
 DOMAIN,pitaya.bytedance.com
-DOMAIN-SUFFIX,aliyundunwaf.com
 DOMAIN-SUFFIX,fraudmetrix.cn
 DOMAIN-KEYWORD,adash
 DOMAIN-KEYWORD,admaster
