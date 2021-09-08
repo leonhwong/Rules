@@ -416,4 +416,4 @@ DOMAIN-KEYWORD,twitter
 DOMAIN-KEYWORD,youtube
 USER-AGENT,com.apple.trustd*
 USER-AGENT,initium*
-USER-AGENT,Telegram
+USER-AGENT,Telegram*
