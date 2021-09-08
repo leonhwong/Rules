@@ -7,5 +7,4 @@ DOMAIN-KEYWORD,instagram
 DOMAIN-KEYWORD,twitter
 DOMAIN-KEYWORD,youtube
 USER-AGENT,com.apple.trustd*
-USER-AGENT,initium*
 USER-AGENT,Telegram*
