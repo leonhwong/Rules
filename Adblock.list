@@ -22,6 +22,7 @@ DOMAIN,mon.toutiaocloud.net
 DOMAIN,page.amap.com
 DOMAIN,pitaya.bytedance.com
 DOMAIN-SUFFIX,fraudmetrix.cn
+DOMAIN-SUFFIX,loggly.com
 DOMAIN-KEYWORD,adash
 DOMAIN-KEYWORD,admaster
 DOMAIN-KEYWORD,adsage
