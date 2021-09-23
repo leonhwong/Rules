@@ -97,11 +97,6 @@ DOMAIN-SUFFIX,city9x.com
 DOMAIN-SUFFIX,ck101.com
 DOMAIN-SUFFIX,ckcdn.com
 DOMAIN-SUFFIX,cl.ly
-DOMAIN-SUFFIX,cloudflare.com
-DOMAIN-SUFFIX,cloudfront.com
-DOMAIN-SUFFIX,cloudfront.net
-DOMAIN-SUFFIX,cloudfront.org
-DOMAIN-SUFFIX,cloudfront.xyz
 DOMAIN-SUFFIX,cloudfunctions.net
 DOMAIN-SUFFIX,cloudmosa.net
 DOMAIN-SUFFIX,clubhouse.com
@@ -410,6 +405,8 @@ DOMAIN-SUFFIX,z-lib.org
 DOMAIN-SUFFIX,zendesk.com
 DOMAIN-SUFFIX,zlibcdn2.com
 DOMAIN-KEYWORD,blogspot
+DOMAIN-KEYWORD,cloudflare
+DOMAIN-KEYWORD,cloudfront
 DOMAIN-KEYWORD,dropbox
 DOMAIN-KEYWORD,facebook
 DOMAIN-KEYWORD,gmail
