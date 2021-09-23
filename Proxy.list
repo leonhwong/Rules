@@ -99,7 +99,6 @@ DOMAIN-SUFFIX,ckcdn.com
 DOMAIN-SUFFIX,cl.ly
 DOMAIN-SUFFIX,cloudfunctions.net
 DOMAIN-SUFFIX,cloudmosa.net
-DOMAIN-SUFFIX,clubhouse.com
 DOMAIN-SUFFIX,cool18.com
 DOMAIN-SUFFIX,coursera.org
 DOMAIN-SUFFIX,daolan.net
@@ -290,8 +289,6 @@ DOMAIN-SUFFIX,porntube.com
 DOMAIN-SUFFIX,porntubecdn.com
 DOMAIN-SUFFIX,pscp.tv
 DOMAIN-SUFFIX,ptt.cc
-DOMAIN-SUFFIX,pubnub.com
-DOMAIN-SUFFIX,pubnubapi.com
 DOMAIN-SUFFIX,puffinbrowser.com
 DOMAIN-SUFFIX,pure18.com
 DOMAIN-SUFFIX,pushbullet.com
@@ -407,11 +404,13 @@ DOMAIN-SUFFIX,zlibcdn2.com
 DOMAIN-KEYWORD,blogspot
 DOMAIN-KEYWORD,cloudflare
 DOMAIN-KEYWORD,cloudfront
+DOMAIN-KEYWORD,clubhouse
 DOMAIN-KEYWORD,dropbox
 DOMAIN-KEYWORD,facebook
 DOMAIN-KEYWORD,gmail
 DOMAIN-KEYWORD,google
 DOMAIN-KEYWORD,instagram
+DOMAIN-KEYWORD,pubnub
 DOMAIN-KEYWORD,twitter
 DOMAIN-KEYWORD,youtube
 USER-AGENT,com.apple.trustd*
