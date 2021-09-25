@@ -171,7 +171,6 @@ DOMAIN-SUFFIX,livedoor.com
 DOMAIN-SUFFIX,livedoor.jp
 DOMAIN-SUFFIX,m.me
 DOMAIN-SUFFIX,manhua.in
-DOMAIN-SUFFIX,mastodon.social
 DOMAIN-SUFFIX,mediaglobalstage.com
 DOMAIN-SUFFIX,medium.com
 DOMAIN-SUFFIX,mega.co.nz
@@ -345,6 +344,7 @@ DOMAIN-KEYWORD,gstatic
 DOMAIN-KEYWORD,instagram
 DOMAIN-KEYWORD,intercom
 DOMAIN-KEYWORD,javbus
+DOMAIN-KEYWORD,mastodon
 DOMAIN-KEYWORD,mgstage
 DOMAIN-KEYWORD,mozilla
 DOMAIN-KEYWORD,pornhub
