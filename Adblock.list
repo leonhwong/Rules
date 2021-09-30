@@ -31,6 +31,7 @@ DOMAIN-SUFFIX,beehive.miui.com
 DOMAIN-SUFFIX,fraudmetrix.cn
 DOMAIN-SUFFIX,loggly.com
 DOMAIN-KEYWORD,adash
+DOMAIN-KEYWORD,adjust
 DOMAIN-KEYWORD,admaster
 DOMAIN-KEYWORD,adsage
 DOMAIN-KEYWORD,adservice
@@ -62,6 +63,7 @@ DOMAIN-KEYWORD,track
 DOMAIN-KEYWORD,traffic
 DOMAIN-KEYWORD,umeng
 DOMAIN-KEYWORD,usage
+DOMAIN-KEYWORD,xmpush
 # 小k智能
 USER-AGENT,%E5%B0%8Fk%E6%99%BA%E8%83%BD*
 # 掌通家园
