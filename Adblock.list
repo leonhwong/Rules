@@ -92,4 +92,3 @@ USER-AGENT,YHOO*
 URL-REGEX,^https?://.+/cnzz.js
 URL-REGEX,^https?://.+/amdc/mobileDispatch
 URL-REGEX,^https?:\/\/(app-)?api\.smzdm\.com\/(v\d\/)?util\/(loading|banner)
-URL-REGEX,^https?:\/\/mp\.weixin\.qq\.com\/mp\/getappmsgad\?
