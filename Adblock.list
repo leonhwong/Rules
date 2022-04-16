@@ -92,4 +92,3 @@ USER-AGENT,TencentConnect*
 USER-AGENT,YHOO*
 URL-REGEX,^https?://.+/cnzz.js
 URL-REGEX,^https?://.+/amdc/mobileDispatch
-URL-REGEX,^https?:\/\/(app-)?api\.smzdm\.com\/(v\d\/)?util\/(loading|banner)
