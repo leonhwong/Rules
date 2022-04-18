@@ -371,6 +371,7 @@ DOMAIN-KEYWORD,wikimedia
 DOMAIN-KEYWORD,wikipedia
 DOMAIN-KEYWORD,xvideos
 DOMAIN-KEYWORD,youtube
+IP-CIDR,194.180.179.226/32,no-resolve
 IP-CIDR,5.28.194.0/24,no-resolve
 IP-CIDR,5.28.195.0/24,no-resolve
 USER-AGENT,com.apple.trustd*
