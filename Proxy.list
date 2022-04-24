@@ -188,7 +188,6 @@ DOMAIN-SUFFIX,megaupload.com
 DOMAIN-SUFFIX,merlinblog.xyz
 DOMAIN-SUFFIX,messenger.com
 DOMAIN-SUFFIX,miku.tools
-DOMAIN-SUFFIX,misakaf.xyz
 DOMAIN-SUFFIX,missav.com
 DOMAIN-SUFFIX,mm-cg.com
 DOMAIN-SUFFIX,mobile01.com
@@ -372,7 +371,6 @@ DOMAIN-KEYWORD,wikimedia
 DOMAIN-KEYWORD,wikipedia
 DOMAIN-KEYWORD,xvideos
 DOMAIN-KEYWORD,youtube
-IP-CIDR,194.180.179.226/32,no-resolve
 IP-CIDR,5.28.194.0/24,no-resolve
 IP-CIDR,5.28.195.0/24,no-resolve
 USER-AGENT,com.apple.trustd*
