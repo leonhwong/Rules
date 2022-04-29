@@ -91,5 +91,5 @@ USER-AGENT,SensorsAnalytics*
 USER-AGENT,ShadowTrackerExtra*
 USER-AGENT,TencentConnect*
 USER-AGENT,YHOO*
-URL-REGEX,^https?://.+/cnzz.js
+# URL-REGEX,^https?://.+/cnzz.js
 URL-REGEX,^https?://.+/amdc/mobileDispatch
