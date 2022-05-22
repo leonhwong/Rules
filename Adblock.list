@@ -96,3 +96,4 @@ USER-AGENT,ShadowTrackerExtra*
 USER-AGENT,TencentConnect*
 USER-AGENT,YHOO*
 URL-REGEX,^https?://.+/amdc/mobileDispatch
+AND,((DOMAIN-SUFFIX,2q10.com), (NOT,((DOMAIN-KEYWORD,ical-cdn))), (NOT,((DOMAIN-KEYWORD,weather-cdn))), (NOT,((DOMAIN-KEYWORD,weather-push)))),
