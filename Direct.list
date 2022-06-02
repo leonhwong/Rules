@@ -17,4 +17,4 @@ USER-AGENT,Health*
 USER-AGENT,itunescloudd*
 USER-AGENT,Music*
 USER-AGENT,swcd*
-AND,((DOMAIN-SUFFIX,apple.com), (NOT,((DOMAIN-KEYWORD,iadsdk)))),DIRECT
+AND,((DOMAIN-SUFFIX,apple.com), (NOT,((DOMAIN-KEYWORD,iadsdk))))
