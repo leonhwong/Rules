@@ -1,6 +1,3 @@
-DOMAIN,aod.itunes.apple.com
-DOMAIN,mvod.itunes.apple.com
-DOMAIN,streamingaudio.itunes.apple.com
 DOMAIN,time.apple.com
 DOMAIN,voiceapi.ikonke.com
 DOMAIN-SUFFIX,aaplimg.com
@@ -10,6 +7,7 @@ DOMAIN-SUFFIX,apple.news
 DOMAIN-SUFFIX,cdn-apple.com
 DOMAIN-SUFFIX,icloud-content.com
 DOMAIN-SUFFIX,icloud.com
+DOMAIN-SUFFIX,itunes.apple.com
 DOMAIN-SUFFIX,itunes.com
 DOMAIN-SUFFIX,me.com
 DOMAIN-SUFFIX,mzstatic.com
