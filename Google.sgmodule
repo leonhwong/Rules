@@ -1,6 +1,5 @@
 #!name=Google Rewrite
 #!desc=Redirect to Google.com
-#!system=ios
 
 [URL Rewrite]
 ^https?://(www.)?(g|google).(cn|co.jp|com.hk) https://www.google.com 302
