@@ -83,8 +83,6 @@ USER-AGENT,Clover*
 USER-AGENT,FBiOSSDK*
 USER-AGENT,GoogleAnalytics*
 USER-AGENT,iDailyPortable*
-USER-AGENT,iQiYiPadVideo
-USER-AGENT,iQiYiPhoneVideo
 USER-AGENT,MarkKit*
 USER-AGENT,MTopSDK*
 USER-AGENT,Munion*
@@ -95,5 +93,4 @@ USER-AGENT,SensorsAnalytics*
 USER-AGENT,ShadowTrackerExtra*
 USER-AGENT,TencentConnect*
 USER-AGENT,YHOO*
-URL-REGEX,^https?://.+/amdc/mobileDispatch
 AND,((DOMAIN-SUFFIX,2q10.com), (NOT,((DOMAIN-KEYWORD,ical-cdn))), (NOT,((DOMAIN-KEYWORD,weather-cdn))), (NOT,((DOMAIN-KEYWORD,weather-push)))),
