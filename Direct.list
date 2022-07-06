@@ -1,7 +1,6 @@
-DOMAIN,voiceapi.ikonke.com
 DOMAIN-SUFFIX,aaplimg.com
 DOMAIN-SUFFIX,apple.co
-DOMAIN-SUFFIX,apple.com.cn
+DOMAIN-SUFFIX,apple.com
 DOMAIN-SUFFIX,apple.news
 DOMAIN-SUFFIX,cdn-apple.com
 DOMAIN-SUFFIX,icloud-content.com
@@ -17,4 +16,3 @@ USER-AGENT,Health*
 USER-AGENT,itunescloudd*
 USER-AGENT,Music*
 USER-AGENT,swcd*
-AND,((DOMAIN-SUFFIX,apple.com), (NOT,((DOMAIN-KEYWORD,iadsdk))))
