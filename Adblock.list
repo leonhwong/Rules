@@ -20,6 +20,7 @@ DOMAIN,mon.toutiaocloud.net
 DOMAIN,page.amap.com
 DOMAIN,pitaya.bytedance.com
 DOMAIN,safe.zj.189.cn
+DOMAIN,safeunicom.govfz.com
 DOMAIN,shop.ikonke.com
 DOMAIN,shop.xunkids.com
 DOMAIN,story.xunkids.com
@@ -31,7 +32,6 @@ DOMAIN,yuer.xunkids.com
 DOMAIN-SUFFIX,appcenter.ms
 DOMAIN-SUFFIX,beehive.miui.com
 DOMAIN-SUFFIX,fraudmetrix.cn
-DOMAIN-SUFFIX,govfz.com
 DOMAIN-SUFFIX,huoying666.com
 DOMAIN-SUFFIX,liuliangkongjian.cn
 DOMAIN-SUFFIX,loggly.com
