@@ -1,0 +1,6 @@
+#!name=Tun Mode
+#!desc=开启Tun Mode兼容模式，绕过部分app代理检测
+#!system=ios
+
+[General]
+compatibility-mode = 3
