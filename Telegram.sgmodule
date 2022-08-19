@@ -1,0 +1,6 @@
+[rule]
+IP-ASN,44907,T_IN,no-resolve
+IP-ASN,59930,T_US,no-resolve
+IP-ASN,62014,T_SG,no-resolve
+IP-ASN,62041,T_NL,no-resolve
+IP-ASN,211157,T_RU,no-resolve
