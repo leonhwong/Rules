@@ -2,6 +2,6 @@
 #!desc=Telegram ASN Diffluence
 
 [Rule]
-IP-ASN,59930,US_AC,no-resolve
-IP-ASN,62014,SG_AC,no-resolve
-IP-ASN,62041,GM_AC,no-resolve
+IP-ASN,62041,𝐃𝐄,no-resolve
+IP-ASN,59930,𝐔𝐒,no-resolve
+IP-ASN,62014,𝐒𝐆,no-resolve
