@@ -2,9 +2,9 @@
 #!desc=Redirect to Google.com
 
 [URL Rewrite]
-^https?:\/\/(www.)?(g|google)\.(cn|co.jp|com.hk) https://www.google.com 302
-^https?:\/\/(ditu|maps).google\.cn https://maps.google.com 302
-^https?:\/\/(www.)?youtube\.(co.jp|com.hk) https://www.youtube.com 302
+^https?://(www.)?(g|google)\.(cn|co.jp|com.hk) https://www.google.com 302
+^https?://(ditu|maps).google\.cn https://maps.google.com 302
+^https?://(www.)?youtube\.(co.jp|com.hk) https://www.youtube.com 302
 
 [MITM]
 hostname = %APPEND% *.g.cn *.google.cn *.google.co.jp *.google.com.hk *.youtube.co.jp *.youtube.com.hk
