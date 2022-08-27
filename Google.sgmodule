@@ -7,4 +7,4 @@
 ^https?://(www\.)?youtube\.(co\.jp|com\.hk) https://www.youtube.com 302
 
 [MITM]
-hostname = %APPEND% *.g.cn *.google.cn *.google.co.jp *.google.com.hk *.youtube.co.jp *.youtube.com.hk
+hostname = %APPEND% *.g.cn, *.google.cn, *.google.co.jp, *.google.com.hk, *.youtube.co.jp, *.youtube.com.hk
