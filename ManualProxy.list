@@ -1,1 +1,2 @@
 DOMAIN-KEYWORD,ocsp
+USER-AGENT,com.apple.trustd*
