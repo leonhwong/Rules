@@ -1,4 +1,6 @@
 DOMAIN-SUFFIX,microsoft.com
+DOMAIN-SUFFIX,office.com
+DOMAIN-SUFFIX,office.net
 DOMAIN-SUFFIX,outlook.com
 DOMAIN-KEYWORD,ocsp
 USER-AGENT,com.apple.trustd*
