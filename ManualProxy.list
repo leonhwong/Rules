@@ -1,2 +1,3 @@
 DOMAIN-KEYWORD,ocsp
+DOMAIN-KEYWORD,outlook
 USER-AGENT,com.apple.trustd*
