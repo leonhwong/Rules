@@ -1,3 +1,4 @@
+DOMAIN,1-api-red.xunlei.com
 DOMAIN,ad.xunkids.com
 DOMAIN,app.imibaby.net
 DOMAIN,appstore.xunkids.com
@@ -33,11 +34,14 @@ DOMAIN-SUFFIX,58.com
 DOMAIN-SUFFIX,58cdn.com.cn
 DOMAIN-SUFFIX,appcenter.ms
 DOMAIN-SUFFIX,beehive.miui.com
+DOMAIN-SUFFIX,dns.iqiyi.com
 DOMAIN-SUFFIX,fraudmetrix.cn
 DOMAIN-SUFFIX,huoying666.com
 DOMAIN-SUFFIX,liuliangkongjian.cn
 DOMAIN-SUFFIX,loggly.com
-DOMAIN-SUFFIX,dns.iqiyi.com
+DOMAIN-SUFFIX,onethingpcs.com
+DOMAIN-SUFFIX,p2cdn.com
+DOMAIN-SUFFIX,peiluyou.com
 DOMAIN-SUFFIX,yupoo.com
 DOMAIN-KEYWORD,adjust
 DOMAIN-KEYWORD,admaster
