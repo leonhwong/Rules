@@ -7,3 +7,4 @@ DOMAIN-SUFFIX,miniclippt.com
 DOMAIN-SUFFIX,radiac.xyz
 DOMAIN-SUFFIX,steamserver.net
 DOMAIN-KEYWORD,yydstxt
+IP-CIDR,38.47.103.180/32
