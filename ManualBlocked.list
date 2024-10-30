@@ -76,6 +76,8 @@ DOMAIN-KEYWORD,tongdun
 DOMAIN-KEYWORD,umeng
 DOMAIN-KEYWORD,usage
 IP-CIDR,114.114.114.114/32,no-resolve
+IP-CIDR,139.9.46.117/32,no-resolve
+IP-CIDR,43.231.145.10/32,no-resolve
 # 小k智能
 USER-AGENT,%E5%B0%8Fk%E6%99%BA%E8%83%BD*
 # 掌通家园
