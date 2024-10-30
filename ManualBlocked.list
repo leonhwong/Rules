@@ -76,9 +76,6 @@ DOMAIN-KEYWORD,tongdun
 DOMAIN-KEYWORD,umeng
 DOMAIN-KEYWORD,usage
 IP-CIDR,114.114.114.114/32,no-resolve
-IP-CIDR,121.37.236.12/32,no-resolve
-IP-CIDR,139.9.46.117/32,no-resolve
-IP-CIDR,43.231.145.10/32,no-resolve
 # 小k智能
 USER-AGENT,%E5%B0%8Fk%E6%99%BA%E8%83%BD*
 # 掌通家园
@@ -102,4 +99,5 @@ USER-AGENT,SensorsAnalytics*
 USER-AGENT,ShadowTrackerExtra*
 USER-AGENT,TencentConnect*
 USER-AGENT,YHOO*
+DEST-PORT,19000
 AND,((DOMAIN-SUFFIX,2q10.com), (NOT,((DOMAIN-KEYWORD,ical-cdn))), (NOT,((DOMAIN-KEYWORD,weather-cdn))), (NOT,((DOMAIN-KEYWORD,weather-push)))),
