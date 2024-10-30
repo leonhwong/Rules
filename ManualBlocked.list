@@ -76,6 +76,7 @@ DOMAIN-KEYWORD,tongdun
 DOMAIN-KEYWORD,umeng
 DOMAIN-KEYWORD,usage
 IP-CIDR,114.114.114.114/32,no-resolve
+IP-CIDR,121.37.236.12/32,no-resolve
 IP-CIDR,139.9.46.117/32,no-resolve
 IP-CIDR,43.231.145.10/32,no-resolve
 # 小k智能
