@@ -1,7 +1,7 @@
 #!name=Splash Blocker
 #!desc=Block splash ad
 #!author=Leon
-#!moduleurl=https://github.com/ddgksf2013/Modules/raw/main/StartUpAds.sgmodule
+#!moduleurl=https://raw.githubusercontent.com/leonhwong/Rules/refs/heads/main/SplashBlocker.sgmodule
 
 [URL Rewrite]
 
