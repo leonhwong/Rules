@@ -5,7 +5,7 @@
 
 [URL Rewrite]
 ^https?:\/\/carapp\.gtmc\.com\.cn\/api\/appgtmc\/homePage\/HomePageAction\/queryHomePageImg\.json - reject
-^https?:\/\/carapp\.gtmc\.com\.cn\/bff\/app\/advert\/[a-zA-Z0-9\/]+$ - reject
+^https?:\/\/carapp\.gtmc\.com\.cn\/bff\/app\/advert\/[a-zA-Z0-9\/]+ - reject
 ^https?:\/\/carapp\.gtmc\.com\.cn\/bff\/app\/discovery\/(queryMoreSpecialTopicInfo|queryHotQuestionAndCapsule|queryRecommendInformation|queryDiscoveryPolymerization|getCommonRecommendDealerInfo) - reject
 ^https?:\/\/creditcardapp\.bankcomm\.cn\/mappweb_interface\/common\/(qryPopAds|qryLaunchAds)\.do - reject
 ^https?:\/\/creditcardapp\.bankcomm\.com\/mapp\/common\/(queryGuidePageAds|getPopAds)\.do$ - reject
