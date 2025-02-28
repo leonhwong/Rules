@@ -13,6 +13,7 @@
 ^https?:\/\/carapp\.gtmc\.com\.cn\/bff\/app\/OnLineCarOrder\/[a-zA-Z0-9\/]+ - reject
 ^https?:\/\/carapp\.gtmc\.com\.cn\/bff\/app\/PublicPraise\/[a-zA-Z0-9\/]+ - reject
 ^https?:\/\/carapp\.gtmc\.com\.cn\/bff\/app\/RecommadationPage\/[a-zA-Z0-9\/]+ - reject
+^https?:\/\/carapp\.gtmc\.com\.cn\/bff\/app\/topic\/[a-zA-Z0-9\/]+ - reject
 ^https?:\/\/carapp\.gtmc\.com\.cn\/fed\/[a-zA-Z0-9\/]+ - reject
 ^https?:\/\/carapp\.gtmc\.com\.cn\/omb-h5\/[a-zA-Z0-9\/]+ - reject
 ^https?:\/\/creditcardapp\.bankcomm\.cn\/mappweb_interface\/common\/(qryPopAds|qryLaunchAds)\.do - reject
