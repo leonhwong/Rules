@@ -25,4 +25,4 @@
 ^https?:\/\/pan\.baidu\.com\/rest\/2\.0\/pcs\/ad - reject
 
 [MITM]
-hostname = %APPEND% carapp.gtmc.com.cn, creditcardapp.bankcomm.cn, creditcardapp.bankcomm.com, dq.dxy.cn, mama.dxy.com, m.api.shaoxing.com.cn, m.client.10010.com, mp.weixin.qq.com, pan.baidu.com
+hostname = %APPEND% *.gtmc.com.cn, creditcardapp.bankcomm.cn, creditcardapp.bankcomm.com, dq.dxy.cn, mama.dxy.com, m.api.shaoxing.com.cn, m.client.10010.com, mp.weixin.qq.com, pan.baidu.com
