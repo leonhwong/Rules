@@ -3,6 +3,7 @@ DOMAIN,ad.xunkids.com
 DOMAIN,app.imibaby.net
 DOMAIN,cache.amap.com
 DOMAIN,cache.gaode.com
+DOMAIN,cms.gtmc.com.cn
 DOMAIN,english.xunkids.com
 DOMAIN,fengyun.carapp.gtmc.com.cn
 DOMAIN,gaode-acs.m.taobao.com
@@ -10,6 +11,7 @@ DOMAIN,gather.xueanquan.com
 DOMAIN,graph.facebook.com
 DOMAIN,graph.instagram.com
 DOMAIN,iadsdk.apple.com
+DOMAIN,iclubsrc.gtmc.com.cn
 DOMAIN,imgs.xlgxapp.com
 DOMAIN,link-jdsx02.netease.im
 DOMAIN,log3-misc-lf.amemv.com
@@ -34,7 +36,6 @@ DOMAIN-SUFFIX,58cdn.com.cn
 DOMAIN-SUFFIX,appcenter.ms
 DOMAIN-SUFFIX,beehive.miui.com
 DOMAIN-SUFFIX,bonree.com
-DOMAIN-SUFFIX,cms.gtmc.com.cn
 DOMAIN-SUFFIX,dns.iqiyi.com
 DOMAIN-SUFFIX,fraudmetrix.cn
 DOMAIN-SUFFIX,huoying666.com
