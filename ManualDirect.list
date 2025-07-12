@@ -1,3 +1,4 @@
+DOMAIN,cdn.metaglide.org
 DOMAIN,sgtv.ii00.cc
 DOMAIN,sptv.ii00.cc
 DOMAIN-SUFFIX,guidetoworld.link
@@ -6,4 +7,4 @@ DOMAIN-SUFFIX,miniclippt.com
 DOMAIN-SUFFIX,radiac.xyz
 DOMAIN-SUFFIX,steamserver.net
 DOMAIN-KEYWORD,yydstxt
-IP-CIDR,38.47.103.180/32
+IP-CIDR,38.47.103.180
