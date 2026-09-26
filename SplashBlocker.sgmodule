@@ -30,7 +30,7 @@
 ^https?:\/\/pan\.baidu\.com\/act\/v\d\/(bchannel|welfare)\/list - reject
 ^https?:\/\/pan\.baidu\.com\/rest\/2\.0\/pcs\/ad - reject
 ^https?:\/\/(discardrp|startup)\.umetrip\.com\/gateway\/api\/umetrip\/native - reject
-^https?:\/\/img\.umetrip\.com\/fs\/advert\/ - reject
+^https?:\/\/(?:[^\/]+\.)*umetrip\.com(?:\.cn)?\/(?:[^\/?#]+\/)*advert\/ - reject
 
 [Script]
 hanglvzongheng = type=http-response, pattern=^https?:\/\/.*umetrip\.com\.cn\/gateway\/api\/umetrip\/native$, requires-body=false, max-size=-1, timeout=60, script-path=https://raw.githubusercontent.com/ddgksf2013/Scripts/refs/heads/master/hanglvzongheng.js
