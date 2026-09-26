@@ -29,8 +29,11 @@
 ^https?:\/\/pan\.baidu\.com\/act\/api\/activityentry - reject
 ^https?:\/\/pan\.baidu\.com\/act\/v\d\/(bchannel|welfare)\/list - reject
 ^https?:\/\/pan\.baidu\.com\/rest\/2\.0\/pcs\/ad - reject
-^https?:\/\/(?:discardrp|startup)\.umetrip\.com\/gateway\/api\/umetrip\/native(?:\?.*)?$ - reject
+^https?:\/\/(discardrp|startup)\.umetrip\.com\/gateway\/api\/umetrip\/native - reject
 ^https?:\/\/img\.umetrip\.com\/fs\/advert\/ - reject
 
+[Script]
+hanglvzongheng = type=http-response, pattern=^https?:\/\/.*umetrip\.com\.cn\/gateway\/api\/umetrip\/native$, requires-body=false, max-size=-1, timeout=60, script-path=https://raw.githubusercontent.com/ddgksf2013/Scripts/refs/heads/master/hanglvzongheng.js
+
 [MITM]
-hostname = %APPEND% carapp.gtmc.com.cn, creditcardapp.bankcomm.cn, creditcardapp.bankcomm.com, dq.dxy.cn, mama.dxy.com, m.api.shaoxing.com.cn, m.client.10010.com, mp.weixin.qq.com, pan.baidu.com, discardrp.umetrip.com, startup.umetrip.com, img.umetrip.com
+hostname = %APPEND% carapp.gtmc.com.cn, creditcardapp.bankcomm.cn, creditcardapp.bankcomm.com, dq.dxy.cn, mama.dxy.com, m.api.shaoxing.com.cn, m.client.10010.com, mp.weixin.qq.com, pan.baidu.com, *.umetrip.com, *.umetrip.com.cn
